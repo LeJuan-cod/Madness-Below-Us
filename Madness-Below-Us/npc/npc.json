@@ -1,0 +1,15 @@
+[
+  {
+    "type": "npc",
+    "id": "refugee_HowardPhillips",
+    "//": "Refugee giving the quests to start the content in the MBU mod",
+    "name_unique": "Howard Phillips",
+    "gender": "male",
+    "name_suffix": "refugee",
+    "class": "NC_LOVECRAFT",
+    "attitude": 0,
+    "mission": 7,
+    "chat": "TALK_LOVECRAFT",
+    "faction": "free_merchants"
+  }
+]

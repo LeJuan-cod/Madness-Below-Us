@@ -1,0 +1,16 @@
+[
+  {
+    "type": "item_group",
+    "id": "NC_LOVECRAFT_worn",
+    "subtype": "collection",
+    "items": [
+      { "item": "socks" },
+      { "item": "pair of dress shoes" },
+      { "item": "pair of bifocal glasses" },
+      { "item": "trenchcoat" },
+      { "item": "suit" },
+      { "item": "necktie" },
+      { "item": "boxer shorts" }
+    ]
+  }
+]
